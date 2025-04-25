@@ -68,7 +68,7 @@ After running the SQL scripts, the database will be ready to use.
 ## Database Design
 
 ### Entity-Relationship Diagram (ERD)
-The ERD provides a visual representation of the database schema, showing the relationships between tables. [Include a link or image of the ERD here.]
+The ERD provides a visual representation of the database schema, showing the relationships between tables. [Image file is in repo]
 
 ### Entity Relationships
 1. brand ↔ product
